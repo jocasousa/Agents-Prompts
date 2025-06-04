@@ -1,3 +1,14 @@
+Vazaram os prompts por trás dos agentes de IA mais avançados!
+Você já se perguntou como agentes como Manus, Lovable e Cursor conseguem ser tão proativos e eficientes?
+Recentemente, descobri um repositório incrível no GitHub que reúne os prompts utilizados por essas ferramentas de IA:
+
+São mais de 7.000 linhas de prompts que detalham o funcionamento interno de agentes autônomos, incluindo:
+- Planejamento de tarefas
+- Execução automatizada
+- Análise de dados
+- Integração com ferramentas como n8n, Zapier e Replit
+
+
 # Prompts completos do V0, Manus, Lovable, Windsurf e outras ferramentas de IA
 
 Este repositório contém os prompts usados nas principais ferramentas de IA do mundo, incluindo:
